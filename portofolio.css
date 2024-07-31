@@ -8,8 +8,8 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 :root{
-    --bg-color:#191f36;
-    --snd-bg-color:#262840;
+    --bg-color:red;
+    --snd-bg-color:yellow;
     --text-color:#fff;
     --main-color:#59B2F4;
 }
